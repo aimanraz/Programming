@@ -3,5 +3,5 @@
 # [Hangman](https://github.com/aimanraz/hangman.git)
 Hey, can you save him? . . .
 
-# Caesar cipher
+# Caesar Cipher
 Afraid people read your cringe message for your crush?. What a coincidence! use this.
