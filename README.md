@@ -1,7 +1,7 @@
 # List of Project
 
 # Blackjack (coming soon)
-The first version of blackjack made by me. This one will be updated until im satisfied with it. 
+The first version of blackjack made by me.
 
 # [Silent Auction](https://github.com/aimanraz/silent_auction.git)
 For those who don't know what a silent auction is, it is like a regular auction. However, unlike most auctions, there is no auctioneer present, and participants place their bids silently and anonymously on a bid. Play with our friends (if you have one).
