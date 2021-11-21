@@ -1,6 +1,6 @@
 # List of Project
 
-# Blackjack (coming soon)
+# [Blackjack](https://github.com/aimanraz/blackjack.git)
 The first version of blackjack made by me.
 
 # [Silent Auction](https://github.com/aimanraz/silent_auction.git)
