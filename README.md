@@ -1,7 +1,7 @@
-# List of Project https://github.com/aimanraz/high-lower.git
+# List of Project 
 
 # [HigherLower](https://github.com/aimanraz/high-lower.git)
--
+A simple game of higher lower. The comparison based on the instagram follower. The user have to choose which account have the highest follower.
 
 # [Blackjack](https://github.com/aimanraz/blackjack.git)
 The first version of blackjack made by me.
